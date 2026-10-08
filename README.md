@@ -1,28 +1,18 @@
 <div align="center">
 
-# ⚡ ABDELRAHMAN AYMAN ⚡
-## **THE UNIVERSAL SOFTWARE ARCHITECT & COMPUTING TITAN**
-### *Bare-Metal & Kernel • Compilers & Runtimes • Distributed Cloud • Machine Learning • Web Engines*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,16,21&height=220&section=header&text=ABDELRAHMAN%20AYMAN&fontSize=42&fontAlignY=38&desc=PRINCIPAL%20SYSTEMS%20ARCHITECT%20%E2%80%A2%20COMPUTING%20TITAN&descAlignY=58&descAlign=50&descSize=18" width="100%" alt="Header Banner" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1200&color=9333EA&center=true&vCenter=true&width=900&lines=Universal+Software+Architect+%26+Engineering+Polymath;Bare-Metal+Hardware+Internals+%26+Kernel+Architecture;Compiler+Engineering%2C+AST+Engines+%26+Bytecode+Analysis;Hyper-Scale+Distributed+Fabrics+%26+Zero-Copy+Networking;Sub-Millisecond+Reactive+Platforms+%26+Formal+Rigor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Universal+Software+Architect+%26+Engineering+Polymath;Bare-Metal+Hardware+Internals+%26+Kernel+Architecture;Compiler+Engineering%2C+AST+Engines+%26+Bytecode+Analysis;Hyper-Scale+Distributed+Fabrics+%26+Zero-Copy+Networking;Sub-Millisecond+Reactive+Platforms+%26+Formal+Rigor" alt="Typing SVG" />
 </a>
 
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/abdelrahmanayman722-ops?style=for-the-badge&logo=github&color=090d16)](https://github.com/abdelrahmanayman722-ops)
 [![Profile Views](https://komarev.com/ghpvc/?username=abdelrahmanayman722-ops&color=8a2be2&style=for-the-badge)](https://github.com/abdelrahmanayman722-ops)
-[![License: Apache 2.0](https://img.shields.io/badge/Code_Discipline-Zero_Defect-blue.svg?style=for-the-badge)](https://opensource.org/licenses/Apache-2.0)
+[![Code Discipline](https://img.shields.io/badge/Discipline-Zero_Defect-blue.svg?style=for-the-badge)](https://opensource.org/licenses/Apache-2.0)
 [![Engineering Status](https://img.shields.io/badge/Status-Mission--Critical%20Dominance-success?style=for-the-badge&logo=shield)](mailto:abdelrahmanayman722@gmail.com)
 
-</div>
-
----
-
-### 🏆 Hall of Engineering Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdelrahmanayman722-ops&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Profile Trophies" />
 </div>
 
 ---
@@ -32,7 +22,7 @@
 I operate across the **entire spectrum of computer science and software architecture**. I recognize no arbitrary technology boundaries. Whether commanding silicon at the hardware register level or architecting planetary-scale distributed fabrics:
 
 * **No Black Boxes:** Complete mastery from CPU cache lines and kernel interrupt vectors to high-level reactive frameworks;
-* **Zero-Allocation Discipline:** Hot paths engineered with extreme memory pooling, stack discipline, and zero GC overhead;
+* **Zero-Allocation Discipline:** Hot execution paths engineered with extreme memory pooling, stack discipline, and zero GC overhead;
 * **Deterministic Concurrency:** Lock-free data structures, atomic memory primitives, and non-blocking ring buffers over naive mutex locking;
 * **Resilient Structural Analysis:** Dynamic AST parsing, bytecode mutation, and binary forensics without brittle heuristics;
 * **Absolute Mathematical Rigor:** Formal verification mindset delivering 100% test coverage and zero regression across all platforms.
@@ -104,12 +94,24 @@ Cross-Continent WAN Round-trip          50 - 150 ms           State hydration & 
 
 <div align="center">
 
-| Domain | Mastered Technologies & Frameworks |
-| :--- | :--- |
-| **Bare-Metal & Systems** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) `x86_64 ASM` `Win32 API` `Linux Kernel` |
-| **Full-Stack & Web Runtimes** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Preact](https://img.shields.io/badge/Preact-673AB8?style=flat-square&logo=preact&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
-| **Distributed & Cloud Fabric** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| **Tooling & Engineering Verification** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) `Vitest` `ILRepack` `MSBuild` `Biome` `CMake` |
+#### Systems, Core Infrastructure & Low-Level Mechanics
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,cs,go,wasm,linux" alt="Systems Icons" />
+</a>
+
+<br/>
+
+#### Application Runtimes, Client Engines & Frontend
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,vite,electron,dotnet" alt="Frontend & Client Icons" />
+</a>
+
+<br/>
+
+#### Distributed Fabrics, Cloud & Verification Tooling
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,kubernetes,git,githubactions,py" alt="Cloud & Tooling Icons" />
+</a>
 
 </div>
 
@@ -138,3 +140,7 @@ Cross-Continent WAN Round-trip          50 - 150 ms           State hydration & 
 * 📬 **Direct Inquiries:** [abdelrahmanayman722@gmail.com](mailto:abdelrahmanayman722@gmail.com)
 * 🐙 **GitHub Platform:** [@abdelrahmanayman722-ops](https://github.com/abdelrahmanayman722-ops)
 * 🤝 **Engagement:** Open for Principal Systems Architecture, High-Performance Infrastructure Advisory, and Mission-Critical Systems Engineering.
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,16,21&height=100&section=footer" width="100%" alt="Footer Banner" />
+</div>
