@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 160" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="quoteBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070a14" />
+      <stop offset="50%" stop-color="#0b1021" />
+      <stop offset="100%" stop-color="#050811" />
+    </linearGradient>
+
+    <!-- Harmonized Border Gradient -->
+    <linearGradient id="quoteBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f5d4" />
+      <stop offset="35%" stop-color="#00bbf9" />
+      <stop offset="70%" stop-color="#7928ca" />
+      <stop offset="100%" stop-color="#ff0080" />
+    </linearGradient>
+
+    <!-- Subtle Grid Pattern -->
+    <pattern id="quoteGrid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="rgba(255, 255, 255, 0.025)" stroke-width="1" />
+    </pattern>
+
+    <!-- Glow Filter -->
+    <filter id="quoteGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <style>
+    .mono { font-family: 'Fira Code', 'JetBrains Mono', 'Consolas', monospace; }
+    .quote-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica', sans-serif;
+      font-style: italic;
+      font-weight: 500;
+      fill: #f8fafc;
+      letter-spacing: 0.3px;
+    }
+    .author {
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 2px;
+      fill: #00f5d4;
+    }
+    .axiom {
+      font-size: 11.5px;
+      font-style: italic;
+      fill: #94a3b8;
+      letter-spacing: 0.2px;
+    }
+    .tag {
+      font-size: 9px;
+      font-weight: 700;
+      letter-spacing: 1.5px;
+      fill: #a855f7;
+    }
+  </style>
+
+  <!-- Base Card Frame with Border Gradient -->
+  <rect x="2" y="2" width="956" height="156" rx="12" fill="url(#quoteBg)" stroke="url(#quoteBorder)" stroke-width="1.75" />
+  <rect x="2" y="2" width="956" height="156" rx="12" fill="url(#quoteGrid)" />
+
+  <!-- Top Right Cyber Tag -->
+  <g transform="translate(680, 18)">
+    <rect x="0" y="0" width="240" height="18" rx="9" fill="#130924" stroke="#7928ca" stroke-width="1" />
+    <circle cx="12" cy="9" r="3" fill="#ff0080" />
+    <text x="24" y="12.5" class="mono tag">DOCTRINE // RIGOR &amp; BEAUTY</text>
+  </g>
+
+  <!-- Large Glowing Quotation Symbol -->
+  <g transform="translate(36, 32)">
+    <text x="0" y="55" font-family="Georgia, serif" font-size="76" font-weight="700" fill="url(#quoteBorder)" opacity="0.35" filter="url(#quoteGlow)">“</text>
+  </g>
+
+  <!-- Quote Body -->
+  <g transform="translate(100, 36)">
+    <!-- Primary Dijkstra Quote -->
+    <text x="0" y="20" class="quote-text" font-size="16.5">
+      “Elegance is not a dispensable luxury, but a quality that decides between success and failure.”
+    </text>
+
+    <!-- Author Attribution -->
+    <text x="0" y="44" class="mono author">
+      — EDSGER W. DIJKSTRA  •  TURING AWARD LAUREATE
+    </text>
+
+    <line x1="0" y1="58" x2="740" y2="58" stroke="#1e293b" stroke-width="1" />
+
+    <!-- Secondary Systems Credo -->
+    <text x="0" y="78" class="mono axiom">
+      Hardware is the canvas of physics; software is the architecture of pure thought.
+    </text>
+    <text x="0" y="96" class="mono axiom">
+      True engineering mastery commands both with absolute mathematical determinism.
+    </text>
+  </g>
+</svg>

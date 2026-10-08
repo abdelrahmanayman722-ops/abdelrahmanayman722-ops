@@ -16,9 +16,7 @@
 
 <br/><br/>
 
-<a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Engineering Quote" />
-</a>
+<img src="https://raw.githubusercontent.com/abdelrahmanayman722-ops/abdelrahmanayman722-ops/main/assets/quote-card.svg" width="100%" alt="Architectural Doctrine & Philosophy Quote" />
 
 </div>
 
