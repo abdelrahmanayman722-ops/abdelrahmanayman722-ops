@@ -1,10 +1,10 @@
 <div align="center">
 
 # ⚡ Abdelrahman Ayman ⚡
-### **Principal Systems Architect • Low-Level Engineer • Computing Polymath**
+### **Principal Systems Architect • Low-Level Engineer • Systems Polymath**
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=A855F7&center=true&vCenter=true&width=850&lines=Universal+Software+Architect+%26+Engineering+Polymath;Low-Level+Memory+Internals+%26+Kernel+Forensics;Resilient+AST+Structural+Patch+Engines;Deterministic+High-Throughput+Distributed+Fabrics;Autonomous+AI+Pipelines+%26+Zero-Defect+Execution" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=A855F7&center=true&vCenter=true&width=850&lines=Universal+Software+Architect+%26+Engineering+Polymath;Low-Level+Memory+Internals+%26+Kernel+Forensics;Resilient+AST+Structural+Patch+Engines;Deterministic+High-Throughput+Distributed+Fabrics;Compiler+Engineering+%26+Zero-Defect+Execution" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -28,13 +28,13 @@
 
 ### 🌌 Executive Systems Architecture Manifesto
 
-I operate across the **entire vertical and horizontal landscape of software engineering**. My engineering discipline rejects framework superficiality and single-stack constraints:
+I engineer systems across the **entire vertical and horizontal landscape of computer science**. My engineering discipline rejects framework superficiality and single-stack constraints:
 
 * **Decomposing complex software runtimes** via zero-allocation memory forensics and native execution hooks;
 * **Authoring delimiter-walking AST parsers** that analyze and mutate bytecode dynamically without brittle signatures;
 * **Architecting hyper-scale distributed backends** with strict mathematical concurrency and latency guarantees;
 * **Building sub-millisecond reactive frontends** backed by hardware-near binary stream processing;
-* **Orchestrating autonomous AI multi-agent workflows** that enforce 100% test verification and zero regression.
+* **Enforcing compiler-grade static analysis & verification pipelines** that deliver 100% test coverage and zero regression.
 
 **Absolute precision, mechanical sympathy, and zero architectural compromise.**
 
@@ -42,11 +42,11 @@ I operate across the **entire vertical and horizontal landscape of software engi
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
 │                              THE FULL COMPUTING SPECTRUM                               │
 ├──────────────────────┬─────────────────────────┬───────────────────┬───────────────────┤
-│  LOW-LEVEL & SYSTEMS │ REVERSE ENG & SECURITY  │ DISTRIBUTED CLOUD │ AI & DATA SYSTEMS │
-│  • C, C++, Rust, ASM │ • AST Structural Logic  │ • Go, .NET, Py    │ • LLM Pipelines   │
-│  • Kernel & Win32 API│ • Memory Forensics      │ • Microservices   │ • Autonomous Agent│
-│  • Zero-Allocation   │ • Bytecode & Assembly   │ • High-Concurrency│ • Vector DB & ML  │
-│  • Memory Internals  │ • Cryptographic Tokens  │ • Kafka, Redis    │ • PyTorch / Tensor│
+│  LOW-LEVEL & SYSTEMS │ REVERSE ENG & SECURITY  │ DISTRIBUTED CLOUD │ COMPILERS & DATA  │
+│  • C, C++, Rust, ASM │ • AST Structural Logic  │ • Go, .NET, Py    │ • AST & Bytecode  │
+│  • Kernel & Win32 API│ • Memory Forensics      │ • Microservices   │ • Vector Engines  │
+│  • Zero-Allocation   │ • Bytecode & Assembly   │ • High-Concurrency│ • Tensor Compute  │
+│  • Memory Internals  │ • Cryptographic Tokens  │ • Kafka, Redis    │ • PyTorch / C++   │
 └──────────────────────┴─────────────────────────┴───────────────────┴───────────────────┘
 ```
 
@@ -91,9 +91,9 @@ Cross-Continent WAN Round-trip          50 - 150 ms           State hydration & 
 * **Real-Time & Web Standards:** WebSocket binary streaming, WebAssembly (WASM), Progressive Web Apps (PWA) with native touch haptics, and bidirectional state hydration.
 * **Internationalization:** Complex multilingual architecture with automated bi-directional LTR/RTL layout engines.
 
-#### 5. 🧠 Artificial Intelligence, Autonomous Agents & Machine Learning
-* **Agentic Systems:** Designing self-healing, multi-agent autonomous coding systems capable of complex reasoning, code refactoring, and test verification.
-* **Applied AI:** LLM integration, prompt engineering architectures, vector retrieval (RAG), embeddings, and neural network fine-tuning workflows (PyTorch).
+#### 5. 🧠 Machine Learning Engineering, Vector Math & High-Dimensional Compute
+* **Inference & Acceleration:** Designing high-throughput inference engines, mathematical embedding spaces, vector indexers, and tensor optimizations (PyTorch, C++ extensions).
+* **Applied Machine Intelligence:** Mathematical modeling, algorithmic signal extraction, and custom algorithmic optimization for high-dimensional data spaces.
 
 #### 6. 🧪 Engineering Rigor & Quality Guarantees
 * **Testing Discipline:** Strict TDD/BDD workflows achieving 100% test pass rates across extensive unit, integration, and end-to-end test suites.
