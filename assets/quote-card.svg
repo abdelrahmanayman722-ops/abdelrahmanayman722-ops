@@ -61,10 +61,10 @@
   <rect x="2" y="2" width="956" height="156" rx="12" fill="url(#quoteGrid)" />
 
   <!-- Top Right Cyber Tag -->
-  <g transform="translate(680, 18)">
-    <rect x="0" y="0" width="240" height="18" rx="9" fill="#130924" stroke="#7928ca" stroke-width="1" />
+  <g transform="translate(620, 18)">
+    <rect x="0" y="0" width="300" height="18" rx="9" fill="#130924" stroke="#7928ca" stroke-width="1" />
     <circle cx="12" cy="9" r="3" fill="#ff0080" />
-    <text x="24" y="12.5" class="mono tag">DOCTRINE // RIGOR &amp; BEAUTY</text>
+    <text x="24" y="12.5" class="mono tag">ABDELRAHMAN AYMAN // RIGOR &amp; BEAUTY</text>
   </g>
 
   <!-- Large Glowing Quotation Symbol -->
@@ -94,4 +94,7 @@
       True engineering mastery commands both with absolute mathematical determinism.
     </text>
   </g>
+
+  <!-- Digital Authorship Watermark -->
+  <text x="480" y="150" text-anchor="middle" class="mono" font-size="8" fill="#334155" letter-spacing="1">ORIGINAL COMPOSITION © 2026 ABDELRAHMAN AYMAN (@abdelrahmanayman722-ops) • ALL RIGHTS RESERVED</text>
 </svg>

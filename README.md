@@ -1,3 +1,24 @@
+<!--
+====================================================================================================
+⚠️ INTELLECTUAL PROPERTY & DIGITAL ASSET OWNERSHIP NOTICE
+====================================================================================================
+AUTHOR: Abdelrahman Ayman (@abdelrahmanayman722-ops)
+FINGERPRINT: SHA256:4Xs6/D9rYjeLyzx4Xyj0wgeyceX9ksHjImePz52mFBU (Ed25519 Cryptographic Signature)
+LICENSE: PROPRIETARY IDENTITY & ARCHITECTURAL ASSETS LICENSE (All Rights Reserved)
+
+NOTICE TO PLAGIARISTS & CLONERS:
+This profile architecture, SVG execution pipeline, bespoke vector assets, telemetry console, and
+literary doctrine are the cryptographically signed intellectual property of Abdelrahman Ayman.
+
+Any unauthorized reproduction, mirroring, re-hosting, or duplication of this README or its assets
+constitutes copyright infringement under international intellectual property law and violates
+GitHub's Terms of Service (Acceptable Use Policies).
+
+Infringing repositories are automatically tracked and will be subjected to an immediate DMCA
+Takedown Notice filed directly with GitHub Legal: https://github.com/contact/dmca
+====================================================================================================
+-->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00f5d4,00bbf9,7928ca,ff0080&height=250&section=header&text=ABDELRAHMAN%20AYMAN&fontSize=46&fontAlignY=36&desc=UNIVERSAL%20SYSTEMS%20ARCHITECT%20%E2%80%A2%20COMPUTATIONAL%20POLYMATH&descAlignY=58&descAlign=50&descSize=16" width="100%" alt="Architect Header" />
@@ -8,10 +29,10 @@
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/abdelrahmanayman722-ops?style=for-the-badge&logo=github&color=7928ca&labelColor=0d1117)](https://github.com/abdelrahmanayman722-ops)
+[![DMCA Protected](https://img.shields.io/badge/Intellectual%20Property-DMCA%20Protected%20%E2%80%A2%20All%20Rights%20Reserved-red?style=for-the-badge&logo=shield&labelColor=0d1117)](./SECURITY.md)
+[![Signed Authorship](https://img.shields.io/badge/Authorship-Cryptographically%20Signed%20(Ed25519)-7928ca?style=for-the-badge&labelColor=0d1117)](./SECURITY.md)
 [![Profile Views](https://komarev.com/ghpvc/?username=abdelrahmanayman722-ops&color=00f5d4&style=for-the-badge)](https://github.com/abdelrahmanayman722-ops)
-[![Engineering Discipline](https://img.shields.io/badge/Discipline-Zero__Defect__Formal__Rigor-00bbf9?style=for-the-badge&labelColor=0d1117)](https://opensource.org/licenses/Apache-2.0)
-[![Execution Class](https://img.shields.io/badge/Execution-Zero--Allocation%20Hotpaths-ff0080?style=for-the-badge&labelColor=0d1117)](mailto:abdelrahmanayman722@gmail.com)
+[![Engineering Discipline](https://img.shields.io/badge/Discipline-Zero__Defect__Formal__Rigor-00bbf9?style=for-the-badge&labelColor=0d1117)](./LICENSE)
 [![Status](https://img.shields.io/badge/Status-Mission--Critical%20Readiness-00f5d4?style=for-the-badge&labelColor=0d1117&logoColor=black)](mailto:abdelrahmanayman722@gmail.com)
 
 <br/><br/>
