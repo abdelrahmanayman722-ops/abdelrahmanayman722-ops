@@ -1,10 +1,10 @@
 <div align="center">
 
 # ⚡ Abdelrahman Ayman ⚡
-### **Principal Systems Architect • Low-Level Engineer • Systems Polymath**
+### **Principal Systems Architect • High-Performance Computing (HPC) • Core Infrastructure**
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=A855F7&center=true&vCenter=true&width=850&lines=Universal+Software+Architect+%26+Engineering+Polymath;Low-Level+Memory+Internals+%26+Kernel+Forensics;Resilient+AST+Structural+Patch+Engines;Deterministic+High-Throughput+Distributed+Fabrics;Compiler+Engineering+%26+Zero-Defect+Execution" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=A855F7&center=true&vCenter=true&width=850&lines=Distinguished+Systems+Architect+%26+Infrastructure+Leader;Bare-Metal+Optimization+%26+Operating+System+Internals;Resilient+AST+Structural+Patch+Engines;Deterministic+High-Throughput+Distributed+Fabrics;Compiler+Engineering+%26+Zero-Defect+Execution" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -30,7 +30,7 @@
 
 I engineer systems across the **entire vertical and horizontal landscape of computer science**. My engineering discipline rejects framework superficiality and single-stack constraints:
 
-* **Decomposing complex software runtimes** via zero-allocation memory forensics and native execution hooks;
+* **Decomposing complex software runtimes** via bare-metal memory forensics and hardware-aligned execution hooks;
 * **Authoring delimiter-walking AST parsers** that analyze and mutate bytecode dynamically without brittle signatures;
 * **Architecting hyper-scale distributed backends** with strict mathematical concurrency and latency guarantees;
 * **Building sub-millisecond reactive frontends** backed by hardware-near binary stream processing;
@@ -42,11 +42,11 @@ I engineer systems across the **entire vertical and horizontal landscape of comp
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
 │                              THE FULL COMPUTING SPECTRUM                               │
 ├──────────────────────┬─────────────────────────┬───────────────────┬───────────────────┤
-│  LOW-LEVEL & SYSTEMS │ REVERSE ENG & SECURITY  │ DISTRIBUTED CLOUD │ COMPILERS & DATA  │
+│ CORE SYSTEMS & KERNEL│ REVERSE ENG & SECURITY  │ DISTRIBUTED CLOUD │ COMPILERS & DATA  │
 │  • C, C++, Rust, ASM │ • AST Structural Logic  │ • Go, .NET, Py    │ • AST & Bytecode  │
 │  • Kernel & Win32 API│ • Memory Forensics      │ • Microservices   │ • Vector Engines  │
-│  • Zero-Allocation   │ • Bytecode & Assembly   │ • High-Concurrency│ • Tensor Compute  │
-│  • Memory Internals  │ • Cryptographic Tokens  │ • Kafka, Redis    │ • PyTorch / C++   │
+│  • Bare-Metal Perf   │ • Bytecode & Assembly   │ • High-Concurrency│ • Tensor Compute  │
+│  • Cache Topologies  │ • Cryptographic Tokens  │ • Kafka, Redis    │ • PyTorch / C++   │
 └──────────────────────┴─────────────────────────┴───────────────────┴───────────────────┘
 ```
 
@@ -71,7 +71,7 @@ Cross-Continent WAN Round-trip          50 - 150 ms           State hydration & 
 
 ### ⚔️ Domains of Total Engineering Mastery
 
-#### 1. 🔬 Low-Level Systems, OS Internals & Kernel Mechanics
+#### 1. ⚡ Bare-Metal Systems, Hardware Optimization & Kernel Architecture
 * **Languages:** C, C++, Rust, x86/x64 Assembly, Modern C# (.NET 8+ & Framework).
 * **Internals:** Win32/POSIX API, multi-threaded process supervision, virtual memory paging, dynamic DLL injection, inter-process communication (IPC), shared memory, and cache-line alignment.
 * **Optimization:** Zero-allocation execution, SIMD vectorization, GC pressure minimization, and native interop (P/Invoke).
@@ -81,7 +81,7 @@ Cross-Continent WAN Round-trip          50 - 150 ms           State hydration & 
 * **Compiler & AST Engineering:** Authoring custom delimiter-walking AST parsers, bytecode decoders, and structural patch engines that manipulate and transform runtimes dynamically.
 * **Security & Cryptography:** Ephemeral token handshake architectures, cryptographic pairing protocols, process tree quarantine, and anti-tamper validation.
 
-#### 3. ☁️ Distributed Systems, Cloud Architecture & Backend
+#### 3. ☁️ High-Throughput Distributed Systems & Enterprise Cloud Infrastructure
 * **Ecosystems:** Modern .NET 8+, Go, Python, Node.js runtime internals (V8 engine).
 * **Architecture:** Domain-Driven Design (DDD), Clean Architecture, Event-Driven Microservices, CQRS, and high-throughput real-time message brokering (Kafka, Redis, WebSockets).
 * **Data Persistence:** Relational (PostgreSQL, SQL Server), NoSQL, and high-performance in-memory caching layers with strict consistency guarantees.
@@ -91,11 +91,11 @@ Cross-Continent WAN Round-trip          50 - 150 ms           State hydration & 
 * **Real-Time & Web Standards:** WebSocket binary streaming, WebAssembly (WASM), Progressive Web Apps (PWA) with native touch haptics, and bidirectional state hydration.
 * **Internationalization:** Complex multilingual architecture with automated bi-directional LTR/RTL layout engines.
 
-#### 5. 🧠 Machine Learning Engineering, Vector Math & High-Dimensional Compute
+#### 5. 🧠 Machine Learning Acceleration, Vector Math & Tensor Compute
 * **Inference & Acceleration:** Designing high-throughput inference engines, mathematical embedding spaces, vector indexers, and tensor optimizations (PyTorch, C++ extensions).
 * **Applied Machine Intelligence:** Mathematical modeling, algorithmic signal extraction, and custom algorithmic optimization for high-dimensional data spaces.
 
-#### 6. 🧪 Engineering Rigor & Quality Guarantees
+#### 6. 🧪 Formal Engineering Rigor & Zero-Tolerance Verification
 * **Testing Discipline:** Strict TDD/BDD workflows achieving 100% test pass rates across extensive unit, integration, and end-to-end test suites.
 * **CI/CD & Automation:** GitHub Actions workflows, MSBuild compilation targets, standalone packaging, and static code analysis.
 
@@ -135,8 +135,8 @@ Cross-Continent WAN Round-trip          50 - 150 ms           State hydration & 
 
 ---
 
-### 💼 Professional Inquiries & Engineering Advisory
+### 💼 Professional Inquiries & Architecture Advisory
 
 * 📬 **Direct Email:** [abdelrahmanayman722@gmail.com](mailto:abdelrahmanayman722@gmail.com)
 * 🐙 **GitHub:** [@abdelrahmanayman722-ops](https://github.com/abdelrahmanayman722-ops)
-* 🤝 **Inquiries:** Open for Principal Systems Architecture, Low-Level Engineering Advisory, and Elite Open-Source Contributions.
+* 🤝 **Inquiries:** Open for Principal Systems Architecture, High-Performance Infrastructure Advisory, and Elite Open-Source Contributions.
