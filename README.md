@@ -373,6 +373,7 @@ I operate across the **entire vertical and horizontal landscape of computer scie
 * 📬 **Direct Inquiries:** [abdelrahmanayman722@gmail.com](mailto:abdelrahmanayman722@gmail.com)
 * 🐙 **GitHub Platform:** [@abdelrahmanayman722-ops](https://github.com/abdelrahmanayman722-ops)
 * 🤝 **Engagement Scope:** Principal Systems Architecture, High-Performance Infrastructure Advisory, Bare-Metal Optimization, and Mission-Critical Systems Engineering.
+* ⚖️ **Intellectual Property:** Protected by [Proprietary Portfolio License](./LICENSE). All design assets, architectural schematics, and text are strictly copyrighted. All rights reserved.
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00f5d4,00bbf9,7928ca,ff0080&height=100&section=footer" width="100%" alt="Footer Banner" />
