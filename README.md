@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,16,21&height=250&section=header&text=ABDELRAHMAN%20AYMAN&fontSize=46&fontAlignY=36&desc=UNIVERSAL%20SYSTEMS%20ARCHITECT%20%E2%80%A2%20COMPUTATIONAL%20POLYMATH&descAlignY=58&descAlign=50&descSize=16" width="100%" alt="Architect Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00f5d4,00bbf9,7928ca,ff0080&height=250&section=header&text=ABDELRAHMAN%20AYMAN&fontSize=46&fontAlignY=36&desc=UNIVERSAL%20SYSTEMS%20ARCHITECT%20%E2%80%A2%20COMPUTATIONAL%20POLYMATH&descAlignY=58&descAlign=50&descSize=16" width="100%" alt="Architect Header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00F5D4&center=true&vCenter=true&width=980&lines=Universal+Software+Architect+%26+Systems+Polymath;Bare-Metal+Hardware+Internals%2C+Kernel+APIs+%26+CPU+Topologies;Compiler+Engineering%2C+Pratt+Parsers+%26+Bytecode+Synthesizers;Reverse+Engineering%2C+Memory+Forensics+%26+Binary+Protocols;Planetary-Scale+Distributed+Fabrics+%26+Sub-Microsecond+Messaging;GPU+Acceleration%2C+Tensor+Kernels+%26+High-Dimension+Vector+Math;Zero-Defect+Execution+Backed+by+Formal+Mathematical+Rigor" alt="Typing SVG" />
@@ -8,11 +8,11 @@
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/abdelrahmanayman722-ops?style=for-the-badge&logo=github&color=090d16)](https://github.com/abdelrahmanayman722-ops)
+[![GitHub followers](https://img.shields.io/github/followers/abdelrahmanayman722-ops?style=for-the-badge&logo=github&color=7928ca&labelColor=0d1117)](https://github.com/abdelrahmanayman722-ops)
 [![Profile Views](https://komarev.com/ghpvc/?username=abdelrahmanayman722-ops&color=00f5d4&style=for-the-badge)](https://github.com/abdelrahmanayman722-ops)
-[![Engineering Discipline](https://img.shields.io/badge/Discipline-Zero_Defect_Formal_Rigor-blue.svg?style=for-the-badge)](https://opensource.org/licenses/Apache-2.0)
-[![Execution Class](https://img.shields.io/badge/Execution-Zero--Allocation%20Hotpaths-purple.svg?style=for-the-badge)](mailto:abdelrahmanayman722@gmail.com)
-[![Mission Critical](https://img.shields.io/badge/Status-Mission--Critical%20Readiness-success?style=for-the-badge&logo=shield)](mailto:abdelrahmanayman722@gmail.com)
+[![Engineering Discipline](https://img.shields.io/badge/Discipline-Zero__Defect__Formal__Rigor-00bbf9?style=for-the-badge&labelColor=0d1117)](https://opensource.org/licenses/Apache-2.0)
+[![Execution Class](https://img.shields.io/badge/Execution-Zero--Allocation%20Hotpaths-ff0080?style=for-the-badge&labelColor=0d1117)](mailto:abdelrahmanayman722@gmail.com)
+[![Status](https://img.shields.io/badge/Status-Mission--Critical%20Readiness-00f5d4?style=for-the-badge&labelColor=0d1117&logoColor=black)](mailto:abdelrahmanayman722@gmail.com)
 
 <br/><br/>
 
@@ -22,45 +22,45 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,6,11,16,21&height=3&section=header" width="100%" alt="Divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=00f5d4,00bbf9,7928ca,ff0080&height=3&section=header" width="100%" alt="Divider" />
 
-### 🖥️ Interactive Kernel & Systems Telemetry HUD
+### 🖥️ 01 // Interactive Kernel & Systems Telemetry HUD
 
 ```text
-┌── [root@quantum-core ~] # ./diagnostics --telemetry --all-subsystems
-│
-├── [HARDWARE & MICRO-ARCHITECTURE]
-│   ├── Target Subsystem .... x86_64 / Golden Cove / Zen 4 Native Pipeline
-│   ├── Vector Engine ....... AVX-512 FMA (8x Float64 / 16x Float32 per clock)
-│   ├── Cache Hierarchy ..... L1d 32KB (8-way) | L2 1MB (8-way) | L3 32MB Shared
-│   └── Memory Controller ... DDR5 Quad-Channel @ 6000 MT/s (Sub-60ns Latency Bound)
-│
-├── [CONCURRENCY & IPC FABRIC]
-│   ├── Buffer Primitives ... Lock-Free Disruptor Ring (Power-of-2 Index Bitmask)
-│   ├── Memory Barriers ..... Sequential Consistency & Acquire-Release Semantics
-│   ├── Contention Vector ... 0.0000% Mutex Wait (Exclusively Atomic CAS Loops)
-│   └── False-Sharing Shield. Explicit 64-Byte Cache-Line Alignment & Struct Padding
-│
-├── [COMPILER & REVERSE-ENGINEERING ENGINE]
-│   ├── Lexical Scanner ..... Zero-Copy UTF-8 Cursor Slice Scanner
-│   ├── Parsing Subsystem ... Pratt Top-Down Operator Precedence & Balanced Delimiters
-│   ├── Mutation Engine ..... In-Memory SSA Bytecode Injection & Non-Linear Splice
-│   └── Signature Invariance. Delimiter & Control-Flow Anchoring (Zero Heuristic Drift)
-│
-└── [SYSTEM HEALTH STATUS] .. ALL 248 INVARIANTS SATISFIED | FORMAL VERIFICATION: 100%
+┌── [root@quantum-core ~] # ./diagnostics --telemetry --all-subsystems ──────────────────────────────┐
+│                                                                                                    │
+├── [HARDWARE & MICRO-ARCHITECTURE]                                                                  │
+│   ├── Target Subsystem .... x86_64 / Golden Cove / Zen 4 Native Pipeline                           │
+│   ├── Vector Engine ....... AVX-512 FMA (8x Float64 / 16x Float32 per clock)                       │
+│   ├── Cache Hierarchy ..... L1d 32KB (8-way) | L2 1MB (8-way) | L3 32MB Shared                     │
+│   └── Memory Controller ... DDR5 Quad-Channel @ 6000 MT/s (Sub-60ns Latency Bound)                 │
+│                                                                                                    │
+├── [CONCURRENCY & IPC FABRIC]                                                                       │
+│   ├── Buffer Primitives ... Lock-Free Disruptor Ring (Power-of-2 Index Bitmask)                    │
+│   ├── Memory Barriers ..... Sequential Consistency & Acquire-Release Semantics                     │
+│   ├── Contention Vector ... 0.0000% Mutex Wait (Exclusively Atomic CAS Loops)                      │
+│   └── False-Sharing Shield. Explicit 64-Byte Cache-Line Alignment & Struct Padding                 │
+│                                                                                                    │
+├── [COMPILER & REVERSE-ENGINEERING ENGINE]                                                          │
+│   ├── Lexical Scanner ..... Zero-Copy UTF-8 Cursor Slice Scanner                                   │
+│   ├── Parsing Subsystem ... Pratt Top-Down Operator Precedence & Balanced Delimiters               │
+│   ├── Mutation Engine ..... In-Memory SSA Bytecode Injection & Non-Linear Splice                    │
+│   └── Signature Invariance. Delimiter & Control-Flow Anchoring (Zero Heuristic Drift)              │
+│                                                                                                    │
+└── [SYSTEM HEALTH STATUS] .. ALL 248 INVARIANTS SATISFIED | FORMAL VERIFICATION: 100% ──────────────┘
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,6,11,16,21&height=3&section=header" width="100%" alt="Divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=00f5d4,00bbf9,7928ca,ff0080&height=3&section=header" width="100%" alt="Divider" />
 
-### ⚡ Live Systems Architecture & Continuous Execution Pipeline
+### ⚡ 02 // Live Systems Architecture & Continuous Execution Pipeline
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/abdelrahmanayman722-ops/abdelrahmanayman722-ops/main/assets/systems-pipeline.svg" width="100%" alt="Universal Computational Architecture Pipeline" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,6,11,16,21&height=3&section=header" width="100%" alt="Divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=00f5d4,00bbf9,7928ca,ff0080&height=3&section=header" width="100%" alt="Divider" />
 
-### 🌌 The Architect’s Doctrine: Universal Computational Sovereignty
+### 🌌 03 // The Architect’s Doctrine: Universal Computational Sovereignty
 
 I operate across the **entire vertical and horizontal landscape of computer science and software architecture**. I recognize no arbitrary technology boundaries. Whether commanding silicon at the hardware register level or architecting planetary-scale distributed fabrics:
 
@@ -70,7 +70,7 @@ I operate across the **entire vertical and horizontal landscape of computer scie
 * **Resilient Structural Analysis:** Dynamic AST parsing, bytecode mutation, and binary forensics without brittle heuristic signatures;
 * **Absolute Mathematical Rigor:** Formal verification mindset delivering 100% test coverage and zero regression across every layer of the computing stack.
 
-```
+```text
 ┌──────────────────────────────────────────────────────────────────────────────────────────────────────────┐
 │                                       THE FULL COMPUTING SPECTRUM                                        │
 ├──────────────────────┬─────────────────────────┬──────────────────────────┬──────────────────────────────┤
@@ -82,9 +82,9 @@ I operate across the **entire vertical and horizontal landscape of computer scie
 └──────────────────────┴─────────────────────────┴──────────────────────────┴──────────────────────────────┘
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,6,11,16,21&height=3&section=header" width="100%" alt="Divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=00f5d4,00bbf9,7928ca,ff0080&height=3&section=header" width="100%" alt="Divider" />
 
-### 📐 Interactive Architectural Blueprints & Systems Internals
+### 📐 04 // Interactive Architectural Blueprints & Systems Internals
 
 <details>
 <summary><b>▶ [EXPAND BLUEPRINT 01] Micro-Architecture: Zero-Copy Lock-Free Ring Buffer & False Sharing Elimination</b></summary>
@@ -211,134 +211,169 @@ I operate across the **entire vertical and horizontal landscape of computer scie
 ```
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,6,11,16,21&height=3&section=header" width="100%" alt="Divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=00f5d4,00bbf9,7928ca,ff0080&height=3&section=header" width="100%" alt="Divider" />
 
-### ⏱️ Mechanical Sympathy: Universal Latency Hierarchy & Memory Physics
+### ⏱️ 05 // Mechanical Sympathy: Hardware Latency Physics
 
+```text
+┌──────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ [MECHANICAL SYMPATHY] :: HARDWARE LATENCY PHYSICS & ARCHITECTURAL IMPLICATIONS                          │
+├──────────────────────────────────────┬──────────────────────┬────────────────────────────────────────────┤
+│ OPERATION                            │ LATENCY BOUND        │ ARCHITECTURAL IMPLICATION                  │
+├──────────────────────────────────────┼──────────────────────┼────────────────────────────────────────────┤
+│ CPU Register Access                  │ 0.5 - 1.0 ns         │ Direct ALU hotpath computation             │
+│ Branch Mispredict Penalty            │ 3.0 - 5.0 ns         │ Eradicated via branchless conditional CMov │
+│ L1 Data Cache Reference              │ 1.0 - 2.0 ns         │ Target boundary for hotpath state          │
+│ L2 Data Cache Reference              │ 3.0 - 7.0 ns         │ Fast-path local thread-isolated cache      │
+│ L3 Shared Cache Reference (LLC)      │ 10 - 20 ns           │ Inter-core synchronized memory boundary    │
+│ Main Memory (DRAM) Round-trip        │ 50 - 100 ns          │ Aligned via Cache-Friendly Data Layouts    │
+│ NVMe Random 4KB Read (SSD)           │ 10 - 50 µs           │ Non-blocking IOCP / Async DMA Queues       │
+│ LAN Datacenter Round-trip            │ 0.5 ms               │ Zero-Copy Binary Ring-Buffer Streaming     │
+│ Cross-Continent WAN Round-trip       │ 50 - 150 ms          │ Optimistic UI Execution & State Hydration  │
+└──────────────────────────────────────┴──────────────────────┴────────────────────────────────────────────┘
 ```
-Operation                               Latency (approx.)     Architectural Implication
-───────────────────────────────────────────────────────────────────────────────────────────────────────────
-CPU Register Access                     0.5 - 1.0 ns          Highest execution efficiency
-Branch Mispredict Penalty               3.0 - 5.0 ns          Eliminated via branchless algorithms
-L1 Cache Reference                      1.0 - 2.0 ns          Target boundary for hotpath state
-L2 Cache Reference                      3.0 - 7.0 ns          Fast path local data access
-L3 Cache Reference (LLC)                10 - 20 ns            Shared core memory boundary
-Main Memory (DRAM) Round-trip           50 - 100 ns           Aligned via cache-friendly layouts (DOD)
-NVMe Random 4KB Read                    10 - 50 µs            Asynchronous non-blocking I/O
-LAN Datacenter Round-trip               0.5 ms                High-throughput zero-copy binary streaming
-Cross-Continent WAN Round-trip          50 - 150 ms           State hydration & optimistic UI execution
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=00f5d4,00bbf9,7928ca,ff0080&height=3&section=header" width="100%" alt="Divider" />
+
+### 📜 06 // The Canonical Axioms of Computational Architecture
+
+```text
+┌──────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ [THE FIVE CANONICAL AXIOMS OF COMPUTATIONAL ARCHITECTURE]                                                │
+├──────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+│ § I.   AXIOM OF DETERMINISM          │ If a state transition cannot be formally verified, it has         │
+│                                      │ no place in mission-critical infrastructure.                      │
+├──────────────────────────────────────┼───────────────────────────────────────────────────────────────────┤
+│ § II.  AXIOM OF MECHANICAL SYMPATHY  │ Software abstractions are only as performant as their physical    │
+│                                      │ mapping to silicon caches, register files, and memory buses.      │
+├──────────────────────────────────────┼───────────────────────────────────────────────────────────────────┤
+│ § III. AXIOM OF ZERO-COST ABSTRACTION│ A software architecture must never pay runtime latency penalties  │
+│                                      │ for invariants that can be proven and resolved at compile time.   │
+├──────────────────────────────────────┼───────────────────────────────────────────────────────────────────┤
+│ § IV.  AXIOM OF STRUCTURAL INVARIANCE│ Systems must anchor on structural and topological invariants,     │
+│                                      │ rendering them immune to superficial minification or syntax drift.│
+├──────────────────────────────────────┼───────────────────────────────────────────────────────────────────┤
+│ § V.   AXIOM OF CONTINUOUS RIGOR     │ Correctness is not an aspiration; it is an enforced binary state  │
+│                                      │ formally verified across every layer of the compute stack.        │
+└──────────────────────────────────────┴───────────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,6,11,16,21&height=3&section=header" width="100%" alt="Divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=00f5d4,00bbf9,7928ca,ff0080&height=3&section=header" width="100%" alt="Divider" />
 
-### 📜 The Axioms of Computational Architecture
+### ⚔️ 07 // The 8 Pillars of Absolute Systems Dominance
 
-1. **The Axiom of Determinism:** If a state transition cannot be formally verified, it has no place in mission-critical infrastructure.
-2. **The Axiom of Mechanical Sympathy:** Software abstractions are only as performant as their mapping to silicon caches, register files, and memory buses.
-3. **The Axiom of Zero-Cost Abstraction:** A software system must never incur runtime latency penalties for invariants established at compile time.
-4. **The Axiom of Structural Invariance:** Systems must anchor on structural and topological invariants, rendering them immune to superficial minification or cosmetic drift.
-5. **The Axiom of Continuous Verification:** Correctness is not an aspiration; it is an enforced binary state verified across every layer of the compute stack.
+#### ⚡ Pillar 01 :: Bare-Metal Systems, OS Internals & Kernel Mechanics
+[![Performance](https://img.shields.io/badge/Latency-Sub--Nanosecond-00f5d4?style=flat-square&labelColor=0d1117)](mailto:abdelrahmanayman722@gmail.com)
+[![Allocation](https://img.shields.io/badge/Memory-Zero--Allocation%20%E2%80%A2%20AVX--512-7928ca?style=flat-square&labelColor=0d1117)](mailto:abdelrahmanayman722@gmail.com)
+* **Core Ecosystems:** `C` • `C++23` • `Rust` • `Zig` • `x86_64 Assembly` • `Modern C# (.NET 8+)`
+* **OS & Hardware Internals:** Win32/POSIX native APIs, kernel-space drivers, multi-threaded process supervision, virtual memory paging, dynamic DLL injection, inter-process communication (IPC), shared memory, and cache-line alignment.
+* **Optimization Discipline:** Zero-allocation execution, SIMD vectorization (AVX-512 FMA), cache-conscious data-oriented design (DOD), and native interop (P/Invoke).
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,6,11,16,21&height=3&section=header" width="100%" alt="Divider" />
-
-### ⚔️ The 8 Pillars of Absolute Systems Dominance
-
-#### 1. ⚡ Bare-Metal Systems, OS Internals & Kernel Mechanics
-* **Ecosystems:** C, C++, Rust, Zig, x86/x64 Assembly, Modern C# (.NET 8+ & Framework).
-* **Internals:** Win32/POSIX native APIs, kernel-space drivers, multi-threaded process supervision, virtual memory paging, dynamic DLL injection, inter-process communication (IPC), shared memory, and cache-line alignment.
-* **Extreme Optimization:** Zero-allocation execution, SIMD vectorization (AVX-512), cache-conscious data-oriented design (DOD), and native interop (P/Invoke).
-
-#### 2. 🛡️ Reverse Engineering, Binary Forensics & Protocol Security
+#### 🛡️ Pillar 02 :: Reverse Engineering, Binary Forensics & Protocol Security
+[![Forensics](https://img.shields.io/badge/Forensics-Static%20%26%20Dynamic%20Deconstruction-00bbf9?style=flat-square&labelColor=0d1117)](mailto:abdelrahmanayman722@gmail.com)
+[![Security](https://img.shields.io/badge/Security-Zero--Heuristic%20Structural%20Anchors-ff0080?style=flat-square&labelColor=0d1117)](mailto:abdelrahmanayman722@gmail.com)
 * **Binary Deconstruction:** Deep static and dynamic analysis of PE executables, ELF binaries, and structured archive formats.
-* **Compiler & AST Engineering:** Authoring custom delimiter-walking AST parsers, bytecode decoders, and structural patch engines that manipulate and transform runtimes dynamically.
+* **Compiler & AST Engineering:** Custom delimiter-walking AST parsers, bytecode decoders, and structural patch engines that manipulate and transform runtimes dynamically.
 * **Cryptographic Engineering:** Ephemeral token handshake architectures, cryptographic pairing protocols, process tree quarantine, and anti-tamper validation.
 
-#### 3. ☁️ High-Throughput Distributed Cloud & Enterprise Architecture
+#### ☁️ Pillar 03 :: High-Throughput Distributed Cloud & Enterprise Architecture
+[![Architecture](https://img.shields.io/badge/Architecture-Clean%20%E2%80%A2%20DDD%20%E2%80%A2%20CQRS-7928ca?style=flat-square&labelColor=0d1117)](mailto:abdelrahmanayman722@gmail.com)
+[![Streaming](https://img.shields.io/badge/Streaming-Kafka%20%E2%80%A2%20Redis%20%E2%80%A2%20WebSockets-00f5d4?style=flat-square&labelColor=0d1117)](mailto:abdelrahmanayman722@gmail.com)
 * **Ecosystems:** Modern .NET 8+, Go, Python, Node.js runtime internals (V8 engine).
-* **Architecture:** Domain-Driven Design (DDD), Clean Architecture, Event-Driven Microservices, CQRS, and high-throughput real-time message brokering (Kafka, Redis, WebSockets).
+* **Architecture Models:** Domain-Driven Design (DDD), Clean Architecture, Event-Driven Microservices, CQRS, and high-throughput real-time message brokering.
 * **Data Persistence:** Relational (PostgreSQL, SQL Server), NoSQL, and high-performance in-memory caching layers with strict consistency guarantees.
 
-#### 4. 🌐 Ultra-High-Performance Full-Stack & Web Engines
+#### 🌐 Pillar 04 :: Ultra-High-Performance Full-Stack & Web Engines
+[![Frontend](https://img.shields.io/badge/Engine-Preact%20%E2%80%A2%20React%20%E2%80%A2%20Vite%20%E2%80%A2%20TypeScript-00bbf9?style=flat-square&labelColor=0d1117)](mailto:abdelrahmanayman722@gmail.com)
+[![Standards](https://img.shields.io/badge/Standards-WebAssembly%20%E2%80%A2%20PWA%20%E2%80%A2%20Haptics-ff0080?style=flat-square&labelColor=0d1117)](mailto:abdelrahmanayman722@gmail.com)
 * **Frontend Core:** TypeScript, JavaScript (ESNext), Preact, React, Tailwind CSS, Vite.
 * **Real-Time & Web Standards:** WebSocket binary streaming, WebAssembly (WASM), Progressive Web Apps (PWA) with native touch haptics, and bidirectional state hydration.
 * **Internationalization:** Complex multilingual architecture with automated bi-directional LTR/RTL layout engines.
 
-#### 5. 🧠 Machine Learning Acceleration, Vector Math & Tensor Compute
-* **Inference & Acceleration:** Designing high-throughput inference engines, mathematical embedding spaces, vector indexers, and tensor optimizations (PyTorch, C++ extensions).
+#### 🧠 Pillar 05 :: Machine Learning Acceleration, Vector Math & Tensor Compute
+[![Tensors](https://img.shields.io/badge/Tensors-AVX--512%20Vectorization%20%E2%80%A2%20PyTorch-00f5d4?style=flat-square&labelColor=0d1117)](mailto:abdelrahmanayman722@gmail.com)
+[![Embeddings](https://img.shields.io/badge/Math-High--Dimension%20Vector%20Spaces-7928ca?style=flat-square&labelColor=0d1117)](mailto:abdelrahmanayman722@gmail.com)
+* **Inference & Acceleration:** High-throughput inference engines, mathematical embedding spaces, vector indexers, and tensor optimizations (PyTorch, C++ extensions).
 * **Applied Machine Intelligence:** Mathematical modeling, algorithmic signal extraction, and custom algorithmic optimization for high-dimensional data spaces.
 
-#### 6. 🧪 Formal Engineering Rigor & Zero-Tolerance Verification
+#### 🧪 Pillar 06 :: Formal Engineering Rigor & Zero-Tolerance Verification
+[![Pass Rate](https://img.shields.io/badge/Test%20Pass%20Rate-100%25%20Zero--Defect-00f5d4?style=flat-square&labelColor=0d1117)](mailto:abdelrahmanayman722@gmail.com)
+[![Automation](https://img.shields.io/badge/Automation-GitHub%20Actions%20%E2%80%A2%20CI%2FCD-00bbf9?style=flat-square&labelColor=0d1117)](mailto:abdelrahmanayman722@gmail.com)
 * **Testing Discipline:** Strict TDD/BDD workflows achieving 100% test pass rates across extensive unit, integration, and end-to-end test suites.
 * **CI/CD & Automation:** GitHub Actions workflows, MSBuild compilation targets, standalone packaging, and static code analysis.
 
-#### 7. 🚀 Low-Latency Networking & Zero-Copy I/O
+#### 🚀 Pillar 07 :: Low-Latency Networking & Zero-Copy I/O
+[![Throughput](https://img.shields.io/badge/I%2FO-Zero--Copy%20DMA%20%E2%80%A2%20Ring--Buffers-ff0080?style=flat-square&labelColor=0d1117)](mailto:abdelrahmanayman722@gmail.com)
+[![Network](https://img.shields.io/badge/Sockets-IOCP%20%2F%20epoll%20Non--Blocking-7928ca?style=flat-square&labelColor=0d1117)](mailto:abdelrahmanayman722@gmail.com)
 * **Protocols & Pipelines:** Binary frame serialization, raw TCP/UDP socket engineering, memory-mapped files, and non-blocking I/O (IOCP / epoll / kqueue).
 * **Throughput Maximization:** Elimination of context-switching overhead, ring-buffer event loops, and cache-aligned buffer management.
 
-#### 8. 📐 Algorithmic Mastery & Mathematical Correctness
+#### 📐 Pillar 08 :: Algorithmic Mastery & Mathematical Correctness
+[![Complexity](https://img.shields.io/badge/Complexity-O(1)%20Constant--Time%20Primitives-00f5d4?style=flat-square&labelColor=0d1117)](mailto:abdelrahmanayman722@gmail.com)
+[![Data Structures](https://img.shields.io/badge/Structures-Lock--Free%20Queues%20%E2%80%A2%20LSM--Trees-00bbf9?style=flat-square&labelColor=0d1117)](mailto:abdelrahmanayman722@gmail.com)
 * **Complexity Management:** $O(1)$ constant-time and $O(\log N)$ logarithmic algorithm design for high-load state machines.
 * **Data Structures:** Custom lock-free queues, B-Trees, LSM-Trees, Radix trees, and bloom filter implementations.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,6,11,16,21&height=3&section=header" width="100%" alt="Divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=00f5d4,00bbf9,7928ca,ff0080&height=3&section=header" width="100%" alt="Divider" />
 
-### 🧰 Exhaustive Technical Arsenal
+### 🧰 08 // Exhaustive Technical Arsenal
 
 <div align="center">
 
-#### Tier 0 :: Bare-Metal Systems, Core Infrastructure & OS Internals
+<p><code>⚡ TIER 00 // SILICON, BARE-METAL & NATIVE SYSTEMS</code></p>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,rust,cs,go,zig,wasm,linux,bash" alt="Systems Icons" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,cs,go,zig,wasm,linux,bash&theme=dark" alt="Systems Icons" />
 </a>
 
-<br/>
+<br/><br/>
 
-#### Tier 1 :: Compilers, High-Performance Backends & Cloud Fabric
+<p><code>☁️ TIER 01 // COMPILERS, HIGH-THROUGHPUT BACKENDS & CLOUD FABRIC</code></p>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,dotnet,postgres,redis,kafka,docker,kubernetes,nginx" alt="Backend & Cloud Icons" />
+  <img src="https://skillicons.dev/icons?i=py,dotnet,postgres,redis,kafka,docker,kubernetes,nginx&theme=dark" alt="Backend & Cloud Icons" />
 </a>
 
-<br/>
+<br/><br/>
 
-#### Tier 2 :: Real-Time Application Engines & Frontend Platforms
+<p><code>🌐 TIER 02 // ULTRA-LOW-LATENCY WEB, REAL-TIME & GUI PLATFORMS</code></p>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,vite,electron,html,css,graphql" alt="Frontend & Client Icons" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,vite,electron,html,css,graphql&theme=dark" alt="Frontend & Client Icons" />
 </a>
 
-<br/>
+<br/><br/>
 
-#### Tier 3 :: Engineering Verification, Tooling & Automation
+<p><code>🧪 TIER 03 // FORMAL VERIFICATION, TOOLING & INFRASTRUCTURE AUTOMATION</code></p>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,githubactions,powershell,vscode" alt="Tooling Icons" />
+  <img src="https://skillicons.dev/icons?i=git,githubactions,powershell,vscode&theme=dark" alt="Tooling Icons" />
 </a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,6,11,16,21&height=3&section=header" width="100%" alt="Divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=00f5d4,00bbf9,7928ca,ff0080&height=3&section=header" width="100%" alt="Divider" />
 
-### 📊 Real-Time GitHub Intelligence & Metrics Dashboard
+### 📊 09 // Real-Time GitHub Intelligence & Metrics Dashboard
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdelrahmanayman722-ops&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelrahmanayman722-ops&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="195" alt="GitHub Stats" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com/?user=abdelrahmanayman722-ops&theme=radical&hide_border=true" height="195" alt="GitHub Streak" />
+</p>
 
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=abdelrahmanayman722-ops&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-<br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahmanayman722-ops&layout=compact&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahmanayman722-ops&layout=compact&theme=radical&hide_border=true" height="165" alt="Top Languages" />
+</p>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,6,11,16,21&height=3&section=header" width="100%" alt="Divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=00f5d4,00bbf9,7928ca,ff0080&height=3&section=header" width="100%" alt="Divider" />
 
-### 💼 Executive Inquiries & Architecture Advisory
+### 💼 10 // Executive Inquiries & Architecture Advisory
 
 * 📬 **Direct Inquiries:** [abdelrahmanayman722@gmail.com](mailto:abdelrahmanayman722@gmail.com)
 * 🐙 **GitHub Platform:** [@abdelrahmanayman722-ops](https://github.com/abdelrahmanayman722-ops)
 * 🤝 **Engagement Scope:** Principal Systems Architecture, High-Performance Infrastructure Advisory, Bare-Metal Optimization, and Mission-Critical Systems Engineering.
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,16,21&height=100&section=footer" width="100%" alt="Footer Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00f5d4,00bbf9,7928ca,ff0080&height=100&section=footer" width="100%" alt="Footer Banner" />
 </div>
