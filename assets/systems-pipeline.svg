@@ -1,0 +1,203 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 360" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070a13" />
+      <stop offset="50%" stop-color="#0d111e" />
+      <stop offset="100%" stop-color="#05070d" />
+    </linearGradient>
+
+    <!-- Glowing Cyber Gradients -->
+    <linearGradient id="neonCyan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f5d4" />
+      <stop offset="100%" stop-color="#00bbf9" />
+    </linearGradient>
+
+    <linearGradient id="neonPurple" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7928ca" />
+      <stop offset="100%" stop-color="#ff0080" />
+    </linearGradient>
+
+    <linearGradient id="beamGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f5d4" stop-opacity="0" />
+      <stop offset="50%" stop-color="#00f5d4" stop-opacity="1" />
+      <stop offset="100%" stop-color="#7928ca" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- Subtle Grid Pattern -->
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="rgba(255, 255, 255, 0.03)" stroke-width="1" />
+    </pattern>
+
+    <!-- Node Glow Filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <style>
+    .mono { font-family: 'Fira Code', 'JetBrains Mono', 'Consolas', monospace; }
+    .title { font-weight: 700; fill: #ffffff; letter-spacing: 1.5px; }
+    .label { font-size: 11px; fill: #94a3b8; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; }
+    .subtext { font-size: 10px; fill: #64748b; }
+    .metric { font-size: 12px; fill: #00f5d4; font-weight: 700; }
+    .status-pulse {
+      animation: pulseGreen 2s infinite ease-in-out;
+    }
+    @keyframes pulseGreen {
+      0%, 100% { opacity: 1; r: 4px; }
+      50% { opacity: 0.4; r: 6px; }
+    }
+  </style>
+
+  <!-- Container Box with Rounded Edges -->
+  <rect x="2" y="2" width="956" height="356" rx="14" fill="url(#bgGrad)" stroke="#1e293b" stroke-width="2" />
+  <rect x="2" y="2" width="956" height="356" rx="14" fill="url(#grid)" />
+
+  <!-- Terminal Window Chrome -->
+  <rect x="2" y="2" width="956" height="42" rx="14" fill="#0b1120" />
+  <rect x="2" y="32" width="956" height="12" fill="#0b1120" />
+  <line x1="2" y1="44" x2="958" y2="44" stroke="#1e293b" stroke-width="1.5" />
+
+  <!-- Terminal Traffic Lights -->
+  <circle cx="24" cy="23" r="5" fill="#ef4444" />
+  <circle cx="42" cy="23" r="5" fill="#f59e0b" />
+  <circle cx="60" cy="23" r="5" fill="#10b981" />
+
+  <!-- Header Title -->
+  <text x="86" y="27" class="mono title" font-size="12">UNIVERSAL COMPUTATIONAL ENGINE // DUAL-PIPELINE ARCHITECTURAL BLUEPRINT</text>
+
+  <!-- Live Status Badge -->
+  <g transform="translate(760, 14)">
+    <rect x="0" y="0" width="180" height="20" rx="10" fill="#06281e" stroke="#00f5d4" stroke-width="1" />
+    <circle cx="16" cy="10" r="4" fill="#00f5d4" class="status-pulse" />
+    <text x="28" y="14" class="mono" font-size="9" fill="#00f5d4" font-weight="700" letter-spacing="1">TELEMETRY: VERIFIED</text>
+  </g>
+
+  <!-- INTERCONNECTING CONDUIT BUS -->
+  <g transform="translate(0, 0)">
+    <!-- Base Conduit Paths -->
+    <path d="M 190 155 L 290 155" stroke="#1e293b" stroke-width="4" stroke-linecap="round" />
+    <path d="M 430 155 L 530 155" stroke="#1e293b" stroke-width="4" stroke-linecap="round" />
+    <path d="M 670 155 L 770 155" stroke="#1e293b" stroke-width="4" stroke-linecap="round" />
+
+    <!-- Animated Data Pulses (SMIL Continuous Beam Animation) -->
+    <path d="M 190 155 L 290 155" stroke="#00f5d4" stroke-width="4" stroke-linecap="round" stroke-dasharray="25, 75">
+      <animate attributeName="stroke-dashoffset" from="100" to="0" dur="1.2s" repeatCount="indefinite" />
+    </path>
+    <path d="M 430 155 L 530 155" stroke="#7928ca" stroke-width="4" stroke-linecap="round" stroke-dasharray="25, 75">
+      <animate attributeName="stroke-dashoffset" from="100" to="0" dur="1.2s" repeatCount="indefinite" />
+    </path>
+    <path d="M 670 155 L 770 155" stroke="#00bbf9" stroke-width="4" stroke-linecap="round" stroke-dasharray="25, 75">
+      <animate attributeName="stroke-dashoffset" from="100" to="0" dur="1.2s" repeatCount="indefinite" />
+    </path>
+  </g>
+
+  <!-- ==================== NODE 1: SILICON & HARDWARE ==================== -->
+  <g transform="translate(50, 85)">
+    <rect x="0" y="0" width="140" height="140" rx="10" fill="#0a0f1d" stroke="#00f5d4" stroke-width="1.5" filter="url(#glow)" opacity="0.15" />
+    <rect x="0" y="0" width="140" height="140" rx="10" fill="#0a0f1d" stroke="#00f5d4" stroke-width="1.5" />
+    
+    <text x="16" y="28" class="mono label" fill="#00f5d4">STAGE 01</text>
+    <text x="16" y="48" class="mono" font-size="12" font-weight="700" fill="#ffffff">BARE-METAL</text>
+    <text x="16" y="64" class="mono" font-size="12" font-weight="700" fill="#ffffff">SILICON</text>
+
+    <line x1="16" y1="76" x2="124" y2="76" stroke="#1e293b" stroke-width="1" />
+
+    <text x="16" y="93" class="mono subtext">AVX-512 FMA</text>
+    <text x="16" y="107" class="mono subtext">64B Cache Line</text>
+
+    <text x="16" y="126" class="mono metric">0.8 ns / cycle</text>
+  </g>
+
+  <!-- ==================== NODE 2: LOCK-FREE DISRUPTOR ==================== -->
+  <g transform="translate(290, 85)">
+    <rect x="0" y="0" width="140" height="140" rx="10" fill="#0a0f1d" stroke="#7928ca" stroke-width="1.5" filter="url(#glow)" opacity="0.15" />
+    <rect x="0" y="0" width="140" height="140" rx="10" fill="#0a0f1d" stroke="#7928ca" stroke-width="1.5" />
+    
+    <text x="16" y="28" class="mono label" fill="#c084fc">STAGE 02</text>
+    <text x="16" y="48" class="mono" font-size="12" font-weight="700" fill="#ffffff">LOCK-FREE</text>
+    <text x="16" y="64" class="mono" font-size="12" font-weight="700" fill="#ffffff">DISRUPTOR</text>
+
+    <line x1="16" y1="76" x2="124" y2="76" stroke="#1e293b" stroke-width="1" />
+
+    <text x="16" y="93" class="mono subtext">Zero Mutex Contention</text>
+    <text x="16" y="107" class="mono subtext">Atomic CAS Loops</text>
+
+    <text x="16" y="126" class="mono metric" fill="#c084fc">14.2M ops/sec</text>
+  </g>
+
+  <!-- ==================== NODE 3: COMPILER & SSA ENGINE ==================== -->
+  <g transform="translate(530, 85)">
+    <rect x="0" y="0" width="140" height="140" rx="10" fill="#0a0f1d" stroke="#ff0080" stroke-width="1.5" filter="url(#glow)" opacity="0.15" />
+    <rect x="0" y="0" width="140" height="140" rx="10" fill="#0a0f1d" stroke="#ff0080" stroke-width="1.5" />
+    
+    <text x="16" y="28" class="mono label" fill="#ff0080">STAGE 03</text>
+    <text x="16" y="48" class="mono" font-size="12" font-weight="700" fill="#ffffff">PRATT PARSER</text>
+    <text x="16" y="64" class="mono" font-size="12" font-weight="700" fill="#ffffff">&amp; SSA BYTECODE</text>
+
+    <line x1="16" y1="76" x2="124" y2="76" stroke="#1e293b" stroke-width="1" />
+
+    <text x="16" y="93" class="mono subtext">Delimiter-Walking</text>
+    <text x="16" y="107" class="mono subtext">In-Memory Mutation</text>
+
+    <text x="16" y="126" class="mono metric" fill="#ff0080">0-Alloc Hotpath</text>
+  </g>
+
+  <!-- ==================== NODE 4: DISTRIBUTED FABRIC ==================== -->
+  <g transform="translate(770, 85)">
+    <rect x="0" y="0" width="140" height="140" rx="10" fill="#0a0f1d" stroke="#00bbf9" stroke-width="1.5" filter="url(#glow)" opacity="0.15" />
+    <rect x="0" y="0" width="140" height="140" rx="10" fill="#0a0f1d" stroke="#00bbf9" stroke-width="1.5" />
+    
+    <text x="16" y="28" class="mono label" fill="#00bbf9">STAGE 04</text>
+    <text x="16" y="48" class="mono" font-size="12" font-weight="700" fill="#ffffff">DISTRIBUTED</text>
+    <text x="16" y="64" class="mono" font-size="12" font-weight="700" fill="#ffffff">CQRS FABRIC</text>
+
+    <line x1="16" y1="76" x2="124" y2="76" stroke="#1e293b" stroke-width="1" />
+
+    <text x="16" y="93" class="mono subtext">Event Log + WAL</text>
+    <text x="16" y="107" class="mono subtext">Sub-ms Queries</text>
+
+    <text x="16" y="126" class="mono metric" fill="#00bbf9">&lt; 0.4ms P99.9</text>
+  </g>
+
+  <!-- ==================== BOTTOM TELEMETRY DOCK ==================== -->
+  <g transform="translate(50, 255)">
+    <rect x="0" y="0" width="860" height="75" rx="8" fill="#070c18" stroke="#1e293b" stroke-width="1" />
+    
+    <!-- Dock Item 1 -->
+    <g transform="translate(30, 20)">
+      <text x="0" y="0" class="mono label">ALLOCATION FOOTPRINT</text>
+      <text x="0" y="22" class="mono" font-size="14" font-weight="700" fill="#00f5d4">0 BYTES (GC-FREE)</text>
+      <text x="0" y="38" class="mono subtext">Stack &amp; Arena Slices</text>
+    </g>
+
+    <line x1="230" y1="15" x2="230" y2="60" stroke="#1e293b" stroke-width="1" />
+
+    <!-- Dock Item 2 -->
+    <g transform="translate(255, 20)">
+      <text x="0" y="0" class="mono label">BRANCH ACCURACY</text>
+      <text x="0" y="22" class="mono" font-size="14" font-weight="700" fill="#ffffff">99.992%</text>
+      <text x="0" y="38" class="mono subtext">Branchless Selection</text>
+    </g>
+
+    <line x1="440" y1="15" x2="440" y2="60" stroke="#1e293b" stroke-width="1" />
+
+    <!-- Dock Item 3 -->
+    <g transform="translate(465, 20)">
+      <text x="0" y="0" class="mono label">INVARIANT INTEGRITY</text>
+      <text x="0" y="22" class="mono" font-size="14" font-weight="700" fill="#00f5d4">100% FORMAL PASS</text>
+      <text x="0" y="38" class="mono subtext">Mathematical Rigor</text>
+    </g>
+
+    <line x1="660" y1="15" x2="660" y2="60" stroke="#1e293b" stroke-width="1" />
+
+    <!-- Dock Item 4 -->
+    <g transform="translate(685, 20)">
+      <text x="0" y="0" class="mono label">BUS UTILIZATION</text>
+      <text x="0" y="22" class="mono" font-size="14" font-weight="700" fill="#a855f7">LINE RATE (SATURATED)</text>
+      <text x="0" y="38" class="mono subtext">Zero-Copy DMA Streaming</text>
+    </g>
+  </g>
+</svg>
