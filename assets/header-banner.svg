@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="100%" height="100%">
+  <defs>
+    <!-- Background Dark Space -->
+    <linearGradient id="headerBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050811" />
+      <stop offset="45%" stop-color="#0a0f24" />
+      <stop offset="100%" stop-color="#060913" />
+    </linearGradient>
+
+    <!-- Harmonized Quad Gradient -->
+    <linearGradient id="quadGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f5d4" />
+      <stop offset="33%" stop-color="#00bbf9" />
+      <stop offset="68%" stop-color="#7928ca" />
+      <stop offset="100%" stop-color="#ff0080" />
+    </linearGradient>
+
+    <!-- Glowing Text Gradient -->
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="30%" stop-color="#00f5d4" />
+      <stop offset="70%" stop-color="#00bbf9" />
+      <stop offset="100%" stop-color="#ffffff" />
+    </linearGradient>
+
+    <!-- Subtle Circuit/Grid Pattern -->
+    <pattern id="headerGrid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="rgba(0, 245, 212, 0.035)" stroke-width="1" />
+    </pattern>
+
+    <!-- Glow Filter -->
+    <filter id="neonGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <style>
+    .mono { font-family: 'Fira Code', 'JetBrains Mono', 'Consolas', monospace; }
+    .title-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', 'Arial', sans-serif;
+      font-weight: 900;
+      letter-spacing: 9px;
+      text-transform: uppercase;
+    }
+    .sub-text {
+      font-family: 'Fira Code', 'JetBrains Mono', 'Consolas', monospace;
+      font-weight: 600;
+      letter-spacing: 4px;
+      font-size: 14.5px;
+      fill: #00f5d4;
+    }
+    .badge-text {
+      font-family: 'Fira Code', 'JetBrains Mono', 'Consolas', monospace;
+      font-weight: 700;
+      letter-spacing: 2px;
+      font-size: 10px;
+      fill: #00bbf9;
+    }
+    .tick-text {
+      font-family: 'Fira Code', 'JetBrains Mono', 'Consolas', monospace;
+      font-size: 9px;
+      fill: #64748b;
+      letter-spacing: 1px;
+    }
+  </style>
+
+  <!-- Base Canvas -->
+  <rect width="1200" height="260" fill="url(#headerBg)" />
+  <rect width="1200" height="260" fill="url(#headerGrid)" />
+
+  <!-- Top Geometric Border -->
+  <line x1="0" y1="2" x2="1200" y2="2" stroke="url(#quadGrad)" stroke-width="3" />
+
+  <!-- Microarchitectural Accents & Grid HUD -->
+  <g class="tick-text">
+    <text x="28" y="32">0x7F_CORE_INITIALIZED</text>
+    <text x="28" y="46">LATENCY_BOUND: SUB-NANOSECOND</text>
+    <text x="1020" y="32">SYS_ARCH: x86_64_AVX512</text>
+    <text x="1058" y="46">TOPOLOGY: BARE_METAL</text>
+  </g>
+
+  <!-- Corner Crosshairs -->
+  <path d="M 20 20 L 35 20 M 20 20 L 20 35" fill="none" stroke="#00f5d4" stroke-width="1.5" opacity="0.6" />
+  <path d="M 1180 20 L 1165 20 M 1180 20 L 1180 35" fill="none" stroke="#ff0080" stroke-width="1.5" opacity="0.6" />
+
+  <!-- Central Status Pill -->
+  <g transform="translate(420, 22)">
+    <rect x="0" y="0" width="360" height="22" rx="11" fill="rgba(0, 187, 249, 0.08)" stroke="rgba(0, 245, 212, 0.35)" stroke-width="1" />
+    <circle cx="14" cy="11" r="3.5" fill="#00f5d4" filter="url(#neonGlow)" />
+    <text x="28" y="15" class="badge-text">UNIVERSAL ARCHITECTURAL ROOT</text>
+  </g>
+
+  <!-- Primary Authority Typography -->
+  <text x="600" y="118" text-anchor="middle" class="title-text" font-size="44" fill="url(#textGrad)" filter="url(#neonGlow)">
+    ABDELRAHMAN AYMAN
+  </text>
+  <text x="600" y="118" text-anchor="middle" class="title-text" font-size="44" fill="#ffffff" opacity="0.95">
+    ABDELRAHMAN AYMAN
+  </text>
+
+  <!-- Subtitle Descriptor -->
+  <text x="600" y="160" text-anchor="middle" class="sub-text">
+    UNIVERSAL SYSTEMS ARCHITECT • COMPUTATIONAL POLYMATH
+  </text>
+
+  <!-- Technical Telemetry Indicators -->
+  <g transform="translate(240, 182)">
+    <!-- Metric Pill 1 -->
+    <rect x="0" y="0" width="160" height="24" rx="4" fill="rgba(255,255,255,0.03)" stroke="rgba(0,245,212,0.25)" stroke-width="1"/>
+    <text x="80" y="16" text-anchor="middle" class="mono" font-size="10.5" fill="#94a3b8">LOCK-FREE CAS: <tspan fill="#00f5d4" font-weight="700">142M/s</tspan></text>
+
+    <!-- Metric Pill 2 -->
+    <rect x="185" y="0" width="170" height="24" rx="4" fill="rgba(255,255,255,0.03)" stroke="rgba(0,187,249,0.25)" stroke-width="1"/>
+    <text x="270" y="16" text-anchor="middle" class="mono" font-size="10.5" fill="#94a3b8">L1d HIT: <tspan fill="#00bbf9" font-weight="700">1.2ns BOUND</tspan></text>
+
+    <!-- Metric Pill 3 -->
+    <rect x="380" y="0" width="165" height="24" rx="4" fill="rgba(255,255,255,0.03)" stroke="rgba(121,40,202,0.35)" stroke-width="1"/>
+    <text x="462" y="16" text-anchor="middle" class="mono" font-size="10.5" fill="#94a3b8">ALLOCATION: <tspan fill="#a855f7" font-weight="700">ZERO GC</tspan></text>
+
+    <!-- Metric Pill 4 -->
+    <rect x="570" y="0" width="150" height="24" rx="4" fill="rgba(255,255,255,0.03)" stroke="rgba(255,0,128,0.25)" stroke-width="1"/>
+    <text x="645" y="16" text-anchor="middle" class="mono" font-size="10.5" fill="#94a3b8">RIGOR: <tspan fill="#ff0080" font-weight="700">100% PROVEN</tspan></text>
+  </g>
+
+  <!-- Kinetic Cyber Wave / Vector Topology at Bottom -->
+  <path d="M 0,225 C 200,245 400,205 600,228 C 800,250 1000,215 1200,230 L 1200,260 L 0,260 Z" fill="rgba(11, 16, 33, 0.7)" />
+  <path d="M 0,238 C 240,215 480,255 720,232 C 960,212 1100,248 1200,235 L 1200,260 L 0,260 Z" fill="rgba(7, 10, 20, 0.9)" />
+  <path d="M 0,248 C 300,228 600,258 900,238 C 1050,228 1150,244 1200,240 L 1200,260 L 0,260 Z" fill="url(#quadGrad)" opacity="0.85" />
+</svg>

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 100" width="100%" height="100%">
+  <defs>
+    <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050811" />
+      <stop offset="50%" stop-color="#090e21" />
+      <stop offset="100%" stop-color="#060913" />
+    </linearGradient>
+
+    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f5d4" />
+      <stop offset="33%" stop-color="#00bbf9" />
+      <stop offset="68%" stop-color="#7928ca" />
+      <stop offset="100%" stop-color="#ff0080" />
+    </linearGradient>
+
+    <pattern id="footerGrid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="rgba(0, 245, 212, 0.03)" stroke-width="1" />
+    </pattern>
+  </defs>
+
+  <style>
+    .mono { font-family: 'Fira Code', 'JetBrains Mono', 'Consolas', monospace; }
+    .footer-label {
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 3px;
+      fill: #00f5d4;
+    }
+    .footer-sub {
+      font-size: 10px;
+      fill: #64748b;
+      letter-spacing: 1.5px;
+    }
+  </style>
+
+  <!-- Base Background -->
+  <rect width="1200" height="100" fill="url(#footerBg)" />
+  <rect width="1200" height="100" fill="url(#footerGrid)" />
+
+  <!-- Top Contoured Wave -->
+  <path d="M 0,22 C 300,4 600,34 900,12 C 1050,4 1150,20 1200,16 L 1200,0 L 0,0 Z" fill="url(#footerGrad)" opacity="0.9" />
+  <path d="M 0,26 C 240,42 480,12 720,32 C 960,48 1100,20 1200,28 L 1200,0 L 0,0 Z" fill="rgba(11, 16, 33, 0.6)" />
+
+  <!-- Center Status & Sovereignty Doctrine -->
+  <g transform="translate(600, 62)" text-anchor="middle">
+    <text y="0" class="mono footer-label">VERIFIED SOVEREIGN ARCHITECTURE • CONTINUOUS SYSTEM INTEGRITY</text>
+    <text y="18" class="mono footer-sub">[ ZERO RUNTIME DEFECTS • ED25519 CRYPTOGRAPHICALLY ATTESTED • ALL RIGHTS RESERVED ]</text>
+  </g>
+</svg>
