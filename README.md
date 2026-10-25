@@ -29,7 +29,7 @@ Takedown Notice filed directly with GitHub Legal: https://github.com/contact/dmc
 
 [![DMCA Protected](https://img.shields.io/badge/Intellectual%20Property-DMCA%20Protected%20%E2%80%A2%20All%20Rights%20Reserved-red?style=for-the-badge&logo=shield&labelColor=0d1117)](./SECURITY.md)
 [![Signed Authorship](https://img.shields.io/badge/Authorship-Cryptographically%20Signed%20(Ed25519)-7928ca?style=for-the-badge&labelColor=0d1117)](./SECURITY.md)
-[![Location](https://img.shields.io/badge/Location-Cairo%2C%20Egypt%20%E2%80%A2%20Remote%20Worldwide-00bbf9?style=for-the-badge&logo=googlemaps&labelColor=0d1117)](#)
+[![Engineering Discipline](https://img.shields.io/badge/Discipline-Zero__Defect__Formal__Rigor-00bbf9?style=for-the-badge&labelColor=0d1117)](./LICENSE)
 [![Contracts](https://img.shields.io/badge/Status-Available%20for%20High--Ticket%20Contracts-00f5d4?style=for-the-badge&labelColor=0d1117&logoColor=black)](mailto:abdelrahmanayman722@gmail.com)
 
 <br/><br/>
@@ -412,7 +412,7 @@ I operate across the **entire vertical and horizontal landscape of computer scie
 * 👨‍💻 **Architect & Lead Engineer:** Eng. Abdelrahman Rashad
 * 📬 **Direct Inquiries:** [abdelrahmanayman722@gmail.com](mailto:abdelrahmanayman722@gmail.com)
 * 🐙 **GitHub Platform:** [@abdelrahmanayman722-ops](https://github.com/abdelrahmanayman722-ops)
-* 🌍 **Location & Availability:** Cairo, Egypt • Available Worldwide for Remote High-Ticket Contracts & Advisory ($3,500 – $6,000/mo).
+* 🌐 **Availability:** Available for Remote Contracts & Technical Architecture Advisory ($3,500 – $6,000/mo).
 * 🤝 **Engagement Scope:** Principal Systems Architecture, Full-Stack Next.js/React Platforms, High-Throughput FastAPI/Node Backends, Enterprise AI Agent & RAG Integrations, and Mission-Critical Systems Engineering.
 * ⚖️ **Intellectual Property:** Protected by [Proprietary Portfolio License](./LICENSE). All design assets, architectural schematics, and text are strictly copyrighted. All rights reserved.
 
