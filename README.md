@@ -2,7 +2,7 @@
 ====================================================================================================
 ⚠️ INTELLECTUAL PROPERTY & DIGITAL ASSET OWNERSHIP NOTICE
 ====================================================================================================
-AUTHOR: Abdelrahman Ayman (@abdelrahmanayman722-ops)
+AUTHOR: Eng. Abdelrahman Rashad (@abdelrahmanayman722-ops)
 FINGERPRINT: SHA256:4Xs6/D9rYjeLyzx4Xyj0wgeyceX9ksHjImePz52mFBU (Ed25519 Cryptographic Signature)
 LICENSE: PROPRIETARY IDENTITY & ARCHITECTURAL ASSETS LICENSE (All Rights Reserved)
 
@@ -23,14 +23,14 @@ Takedown Notice filed directly with GitHub Legal: https://github.com/contact/dmc
 
 <img src="./assets/header-banner.svg" width="100%" alt="Architect Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00F5D4&center=true&vCenter=true&width=980&lines=Universal+Software+Architect+%26+Systems+Polymath;Bare-Metal+Hardware+Internals%2C+Kernel+APIs+%26+CPU+Topologies;Compiler+Engineering%2C+Pratt+Parsers+%26+Bytecode+Synthesizers;Reverse+Engineering%2C+Memory+Forensics+%26+Binary+Protocols;Planetary-Scale+Distributed+Fabrics+%26+Sub-Microsecond+Messaging;GPU+Acceleration%2C+Tensor+Kernels+%26+High-Dimension+Vector+Math;Zero-Defect+Execution+Backed+by+Formal+Mathematical+Rigor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00F5D4&center=true&vCenter=true&width=980&lines=Eng.+Abdelrahman+Rashad;Senior+Full-Stack+Engineer+%26+Solutions+Architect;Production+Next.js+15%2C+React+19%2C+FastAPI+%26+Node.js;Enterprise+AI+Agents%2C+Hybrid+RAG+%26+Safe+SQL+Pipelines;Bare-Metal+Systems%2C+Kernel+APIs+%26+Lock-Free+Concurrency;Zero-Defect+Execution+Backed+by+100%25+Automated+Rigor" alt="Typing SVG" />
 
 <br/>
 
 [![DMCA Protected](https://img.shields.io/badge/Intellectual%20Property-DMCA%20Protected%20%E2%80%A2%20All%20Rights%20Reserved-red?style=for-the-badge&logo=shield&labelColor=0d1117)](./SECURITY.md)
 [![Signed Authorship](https://img.shields.io/badge/Authorship-Cryptographically%20Signed%20(Ed25519)-7928ca?style=for-the-badge&labelColor=0d1117)](./SECURITY.md)
-[![Engineering Discipline](https://img.shields.io/badge/Discipline-Zero__Defect__Formal__Rigor-00bbf9?style=for-the-badge&labelColor=0d1117)](./LICENSE)
-[![Status](https://img.shields.io/badge/Status-Mission--Critical%20Readiness-00f5d4?style=for-the-badge&labelColor=0d1117&logoColor=black)](mailto:abdelrahmanayman722@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Cairo%2C%20Egypt%20%E2%80%A2%20Remote%20Worldwide-00bbf9?style=for-the-badge&logo=googlemaps&labelColor=0d1117)](#)
+[![Contracts](https://img.shields.io/badge/Status-Available%20for%20High--Ticket%20Contracts-00f5d4?style=for-the-badge&labelColor=0d1117&logoColor=black)](mailto:abdelrahmanayman722@gmail.com)
 
 <br/><br/>
 
@@ -100,7 +100,46 @@ I operate across the **entire vertical and horizontal landscape of computer scie
 
 <img src="./assets/divider.svg" width="100%" alt="Divider" />
 
-### 📐 04 // Interactive Architectural Blueprints & Systems Internals
+<img src="./assets/divider.svg" width="100%" alt="Divider" />
+
+### 🚀 04 // Flagship Open-Source Engineering & Production Repositories
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+#### 🧠 [Enterprise AI & Full-Stack Solutions Suite](https://github.com/abdelrahmanayman722-ops/enterprise-ai-solutions-suite)
+[![Tests Passing](https://img.shields.io/badge/Tests-128%2F128%20Passing%20(100%25)-00f5d4?style=flat-square&logo=pytest&labelColor=0d1117)](https://github.com/abdelrahmanayman722-ops/enterprise-ai-solutions-suite)
+[![Next.js 15](https://img.shields.io/badge/Frontend-Next.js%2015%20%7C%20React%2019-00bbf9?style=flat-square&logo=nextdotjs&labelColor=0d1117)](https://github.com/abdelrahmanayman722-ops/enterprise-ai-solutions-suite)
+[![FastAPI](https://img.shields.io/badge/Backend-Python%20FastAPI-7928ca?style=flat-square&logo=fastapi&labelColor=0d1117)](https://github.com/abdelrahmanayman722-ops/enterprise-ai-solutions-suite)
+
+* **Architecture:** Enterprise Autonomous System uniting Hybrid RAG (BM25 + Vector RRF), AST Safe SQL barrier, Anti-Detection Web Scraper, and Executive Next.js 15 SaaS Dashboard.
+* **Verification:** 100% test pass rate across 4 tiers (Feature, Boundary, Integration, Scenarios).
+* **Tech Stack:** Python 3.12 • FastAPI • Next.js 15 • TypeScript • Tailwind CSS • Docker.
+
+👉 **[Explore Source Code & Documentation →](https://github.com/abdelrahmanayman722-ops/enterprise-ai-solutions-suite)**
+
+</td>
+<td width="50%" valign="top">
+
+#### ⚡ [Disruptor Ring: Zero-Allocation Lock-Free Buffer](https://github.com/abdelrahmanayman722-ops/disruptor-ring)
+[![C# .NET](https://img.shields.io/badge/.NET-8.0%20%7C%20C%23-7928ca?style=flat-square&logo=dotnet&labelColor=0d1117)](https://github.com/abdelrahmanayman722-ops/disruptor-ring)
+[![Latency](https://img.shields.io/badge/Latency-Sub--Microsecond-00f5d4?style=flat-square&labelColor=0d1117)](https://github.com/abdelrahmanayman722-ops/disruptor-ring)
+[![Allocation](https://img.shields.io/badge/Memory-Zero--Allocation-00bbf9?style=flat-square&labelColor=0d1117)](https://github.com/abdelrahmanayman722-ops/disruptor-ring)
+
+* **Architecture:** Ultra-low-latency lock-free circular ring buffer with 64-byte false-sharing cache line padding and sequential consistency memory barriers.
+* **Throughput:** Multi-million ops/second with 0.0000% mutex contention.
+* **Tech Stack:** C# 12 • .NET 8.0 • SIMD Vectorization • Cache-Oriented Memory.
+
+👉 **[Explore Source Code & Documentation →](https://github.com/abdelrahmanayman722-ops/disruptor-ring)**
+
+</td>
+</tr>
+</table>
+
+<img src="./assets/divider.svg" width="100%" alt="Divider" />
+
+### 📐 05 // Interactive Architectural Blueprints & Systems Internals
 
 <details>
 <summary><b>▶ [EXPAND BLUEPRINT 01] Micro-Architecture: Zero-Copy Lock-Free Ring Buffer & False Sharing Elimination</b></summary>
@@ -229,7 +268,7 @@ I operate across the **entire vertical and horizontal landscape of computer scie
 
 <img src="./assets/divider.svg" width="100%" alt="Divider" />
 
-### ⏱️ 05 // Mechanical Sympathy: Hardware Latency Physics
+### ⏱️ 06 // Mechanical Sympathy: Hardware Latency Physics
 
 ```text
 ┌──────────────────────────────────────────────────────────────────────────────────────────────────────────┐
@@ -251,7 +290,7 @@ I operate across the **entire vertical and horizontal landscape of computer scie
 
 <img src="./assets/divider.svg" width="100%" alt="Divider" />
 
-### 📜 06 // The Canonical Axioms of Computational Architecture
+### 📜 07 // The Canonical Axioms of Computational Architecture
 
 ```text
 ┌──────────────────────────────────────────────────────────────────────────────────────────────────────────┐
@@ -276,7 +315,7 @@ I operate across the **entire vertical and horizontal landscape of computer scie
 
 <img src="./assets/divider.svg" width="100%" alt="Divider" />
 
-### ⚔️ 07 // The 8 Pillars of Absolute Systems Dominance
+### ⚔️ 08 // The 8 Pillars of Absolute Systems Dominance
 
 #### ⚡ Pillar 01 :: Bare-Metal Systems, OS Internals & Kernel Mechanics
 [![Performance](https://img.shields.io/badge/Latency-Sub--Nanosecond-00f5d4?style=flat-square&labelColor=0d1117)](#-pillar-01--bare-metal-systems-os-internals--kernel-mechanics)
@@ -332,7 +371,7 @@ I operate across the **entire vertical and horizontal landscape of computer scie
 
 <img src="./assets/divider.svg" width="100%" alt="Divider" />
 
-### 🧰 08 // Exhaustive Technical Arsenal
+### 🧰 09 // Exhaustive Technical Arsenal
 
 <div align="center">
 
@@ -358,7 +397,7 @@ I operate across the **entire vertical and horizontal landscape of computer scie
 
 <img src="./assets/divider.svg" width="100%" alt="Divider" />
 
-### 📊 09 // Real-Time Microarchitectural Telemetry & Invariant Matrix
+### 📊 10 // Real-Time Microarchitectural Telemetry & Invariant Matrix
 
 <div align="center">
 
@@ -368,11 +407,13 @@ I operate across the **entire vertical and horizontal landscape of computer scie
 
 <img src="./assets/divider.svg" width="100%" alt="Divider" />
 
-### 💼 10 // Executive Inquiries & Architecture Advisory
+### 💼 11 // Executive Inquiries & Architecture Advisory
 
+* 👨‍💻 **Architect & Lead Engineer:** Eng. Abdelrahman Rashad
 * 📬 **Direct Inquiries:** [abdelrahmanayman722@gmail.com](mailto:abdelrahmanayman722@gmail.com)
 * 🐙 **GitHub Platform:** [@abdelrahmanayman722-ops](https://github.com/abdelrahmanayman722-ops)
-* 🤝 **Engagement Scope:** Principal Systems Architecture, High-Performance Infrastructure Advisory, Bare-Metal Optimization, and Mission-Critical Systems Engineering.
+* 🌍 **Location & Availability:** Cairo, Egypt • Available Worldwide for Remote High-Ticket Contracts & Advisory ($3,500 – $6,000/mo).
+* 🤝 **Engagement Scope:** Principal Systems Architecture, Full-Stack Next.js/React Platforms, High-Throughput FastAPI/Node Backends, Enterprise AI Agent & RAG Integrations, and Mission-Critical Systems Engineering.
 * ⚖️ **Intellectual Property:** Protected by [Proprietary Portfolio License](./LICENSE). All design assets, architectural schematics, and text are strictly copyrighted. All rights reserved.
 
 <div align="center">
