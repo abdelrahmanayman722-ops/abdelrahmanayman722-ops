@@ -107,9 +107,10 @@ I operate across the **entire vertical and horizontal landscape of computer scie
 <td width="50%" valign="top">
 
 #### 🧠 [Enterprise AI & Full-Stack Solutions Suite](https://github.com/abdelrahmanayman722-ops/enterprise-ai-solutions-suite)
-[![Tests Passing](https://img.shields.io/badge/Tests-128%2F128%20Passing%20(100%25)-00f5d4?style=flat-square&logo=pytest&labelColor=0d1117)](https://github.com/abdelrahmanayman722-ops/enterprise-ai-solutions-suite)
-[![Next.js 15](https://img.shields.io/badge/Frontend-Next.js%2015%20%7C%20React%2019-00bbf9?style=flat-square&logo=nextdotjs&labelColor=0d1117)](https://github.com/abdelrahmanayman722-ops/enterprise-ai-solutions-suite)
-[![FastAPI](https://img.shields.io/badge/Backend-Python%20FastAPI-7928ca?style=flat-square&logo=fastapi&labelColor=0d1117)](https://github.com/abdelrahmanayman722-ops/enterprise-ai-solutions-suite)
+[![Release v1.0.0](https://img.shields.io/badge/Release-v1.0.0-00f5d4?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/abdelrahmanayman722-ops/enterprise-ai-solutions-suite/releases/tag/v1.0.0)
+[![Tests Passing](https://img.shields.io/badge/Tests-128%2F128%20Passing%20(100%25)-00bbf9?style=flat-square&logo=pytest&labelColor=0d1117)](https://github.com/abdelrahmanayman722-ops/enterprise-ai-solutions-suite)
+[![Next.js 15](https://img.shields.io/badge/Frontend-Next.js%2015%20%7C%20React%2019-7928ca?style=flat-square&logo=nextdotjs&labelColor=0d1117)](https://github.com/abdelrahmanayman722-ops/enterprise-ai-solutions-suite)
+[![FastAPI](https://img.shields.io/badge/Backend-Python%20FastAPI-ff007f?style=flat-square&logo=fastapi&labelColor=0d1117)](https://github.com/abdelrahmanayman722-ops/enterprise-ai-solutions-suite)
 
 * **Architecture:** Enterprise Autonomous System uniting Hybrid RAG (BM25 + Vector RRF), AST Safe SQL barrier, Anti-Detection Web Scraper, and Executive Next.js 15 SaaS Dashboard.
 * **Verification:** 100% test pass rate across 4 tiers (Feature, Boundary, Integration, Scenarios).
@@ -121,13 +122,14 @@ I operate across the **entire vertical and horizontal landscape of computer scie
 <td width="50%" valign="top">
 
 #### ⚡ [Disruptor Ring: Zero-Allocation Lock-Free Buffer](https://github.com/abdelrahmanayman722-ops/disruptor-ring)
-[![C# .NET](https://img.shields.io/badge/.NET-8.0%20%7C%20C%23-7928ca?style=flat-square&logo=dotnet&labelColor=0d1117)](https://github.com/abdelrahmanayman722-ops/disruptor-ring)
-[![Latency](https://img.shields.io/badge/Latency-Sub--Microsecond-00f5d4?style=flat-square&labelColor=0d1117)](https://github.com/abdelrahmanayman722-ops/disruptor-ring)
-[![Allocation](https://img.shields.io/badge/Memory-Zero--Allocation-00bbf9?style=flat-square&labelColor=0d1117)](https://github.com/abdelrahmanayman722-ops/disruptor-ring)
+[![Release v1.0.0](https://img.shields.io/badge/Release-v1.0.0-00f5d4?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/abdelrahmanayman722-ops/disruptor-ring/releases/tag/v1.0.0)
+[![C# .NET](https://img.shields.io/badge/.NET-9.0%20%7C%20C%23-00bbf9?style=flat-square&logo=dotnet&labelColor=0d1117)](https://github.com/abdelrahmanayman722-ops/disruptor-ring)
+[![Latency](https://img.shields.io/badge/Latency-Sub--Microsecond%20(12.65ns)-7928ca?style=flat-square&labelColor=0d1117)](https://github.com/abdelrahmanayman722-ops/disruptor-ring)
+[![Allocation](https://img.shields.io/badge/Memory-Zero--Allocation-ff007f?style=flat-square&labelColor=0d1117)](https://github.com/abdelrahmanayman722-ops/disruptor-ring)
 
 * **Architecture:** Ultra-low-latency lock-free circular ring buffer with 64-byte false-sharing cache line padding and sequential consistency memory barriers.
-* **Throughput:** Multi-million ops/second with 0.0000% mutex contention.
-* **Tech Stack:** C# 12 • .NET 8.0 • SIMD Vectorization • Cache-Oriented Memory.
+* **Throughput:** Multi-million ops/second (79M+ ops/sec) with 0.0000% mutex contention.
+* **Tech Stack:** C# 13 • .NET 9.0 • SIMD Vectorization • Cache-Oriented Memory.
 
 👉 **[Explore Source Code & Documentation →](https://github.com/abdelrahmanayman722-ops/disruptor-ring)**
 
