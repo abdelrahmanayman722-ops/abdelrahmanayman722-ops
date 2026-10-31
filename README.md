@@ -100,8 +100,6 @@ I operate across the **entire vertical and horizontal landscape of computer scie
 
 <img src="./assets/divider.svg" width="100%" alt="Divider" />
 
-<img src="./assets/divider.svg" width="100%" alt="Divider" />
-
 ### 🚀 04 // Flagship Open-Source Engineering & Production Repositories
 
 <table width="100%">
@@ -132,6 +130,23 @@ I operate across the **entire vertical and horizontal landscape of computer scie
 * **Tech Stack:** C# 12 • .NET 8.0 • SIMD Vectorization • Cache-Oriented Memory.
 
 👉 **[Explore Source Code & Documentation →](https://github.com/abdelrahmanayman722-ops/disruptor-ring)**
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+#### 🛡️ [SovereignTitan: Binary Runtime Patcher & Remote IPC Architecture](https://github.com/abdelrahmanayman722-ops/Wand-Enhancer)
+[![Release v2.3.0.0](https://img.shields.io/badge/Release-v2.3.0.0-00f5d4?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/abdelrahmanayman722-ops/Wand-Enhancer/releases/tag/2.3.0.0)
+[![Wand Certified](https://img.shields.io/badge/Certified-Wand%20v12.68.0-00bbf9?style=flat-square&logo=electron&labelColor=0d1117)](https://github.com/abdelrahmanayman722-ops/Wand-Enhancer)
+[![Tests Passing](https://img.shields.io/badge/Tests-54%2F54%20Passing%20(100%25)-7928ca?style=flat-square&logo=cplusplus&labelColor=0d1117)](https://github.com/abdelrahmanayman722-ops/Wand-Enhancer)
+[![Architecture](https://img.shields.io/badge/Architecture-Structural%20AST%20Patching-ff007f?style=flat-square&labelColor=0d1117)](https://github.com/abdelrahmanayman722-ops/Wand-Enhancer)
+
+* **Architecture:** Enterprise-grade binary runtime patcher, ASAR structural code rewriting, high-throughput WebSocket IPC, and reactive Preact remote panel.
+* **Security & Defense:** Active protection against typosquatting/impersonation malware, anti-tamper verification, and 100% offline-capable execution.
+* **Tech Stack:** C# .NET • Preact • TypeScript • Tailwind CSS • WebSockets • ASAR Architecture.
+
+👉 **[Explore Source Code & Documentation →](https://github.com/abdelrahmanayman722-ops/Wand-Enhancer)**
 
 </td>
 </tr>
